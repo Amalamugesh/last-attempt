@@ -11,14 +11,21 @@ public class mugi {
 		// TODO Auto-generated method stub
 
 	}
+
+	private void step4() {
+		// TODO Auto-generated method stub
+
+	}
+	private void step5() {
+		// TODO Auto-generated method stub
+
+	}
+
 	private void step3() {
 		System.out.println();
 
 	}
 
 	
-	private void step4() {
-		// TODO Auto-generated method stub
-
-	}
+	
 }
