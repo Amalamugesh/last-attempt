@@ -11,5 +11,10 @@ public class mugi {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void step5() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
